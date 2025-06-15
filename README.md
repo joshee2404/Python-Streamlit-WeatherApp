@@ -7,7 +7,8 @@ A simple, fast, and responsive weather app built with **Python** and **Streamlit
 
 ## 📸 Preview
 
-![image](https://github.com/user-attachments/assets/24542fb3-658f-4bb4-9cb8-c4577346f8af)
+![image](https://github.com/user-attachments/assets/5158ae02-b83a-4640-aee9-580671501021)
+
  <!-- Add your screenshot file -->
 
 ---
