@@ -72,15 +72,4 @@ weather-app/
 - Add unit tests
 - Deploy on [Streamlit Cloud](https://streamlit.io/cloud) or [Hugging Face Spaces](https://huggingface.co/spaces)
 
----
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 👨‍💻 Author
-
-Made by **[Your Name](https://github.com/your-username)**  
-Feel free to contribute, suggest ideas, or fork the repo!
