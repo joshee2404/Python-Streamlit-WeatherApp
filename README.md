@@ -16,7 +16,7 @@ A simple, fast, and responsive weather app built with **Python** and **Streamlit
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/joshee2404/Python-Streamlit-WeatherApp.git
 cd weather-app
 ```
 
